@@ -24,7 +24,7 @@ The portfolio includes the following sections:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/siyathemba-coder/portfolio.git
    ```
 2. Open `index.html` in your browser to view the portfolio locally.
 3. Edit sections or add new projects by updating the HTML and CSS files.
